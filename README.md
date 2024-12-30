@@ -13,7 +13,7 @@ composer global require james.xue/sms-bombing
 普通轰炸（默认 10 次）
 
 ```bash
-sms-bombing 136xxxxxxxx
+sms-bombing 15563888043
 ```
 
 全量轰炸
